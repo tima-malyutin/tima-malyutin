@@ -152,7 +152,7 @@
 <img src="https://raw.githubusercontent.com/timur-malyutin/timur-malyutin/output/snake.svg" alt="Snake animation" />
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=timur-malyutin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" style="width: 100%; max-width: 320px; height: auto;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timur-malyutin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" style="width: 100%; max-width: 320px; height: auto;" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=timur-malyutin&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" style="width: 100%; max-width: 320px; height: auto;" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tima-malyutin&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" style="width: 100%; max-width: 320px; height: auto;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tima-malyutin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" style="width: 100%; max-width: 320px; height: auto;" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=tima-malyutin&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" style="width: 100%; max-width: 320px; height: auto;" alt="streak graph" />
 </div>
